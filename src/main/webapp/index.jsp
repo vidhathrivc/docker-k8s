@@ -8,7 +8,8 @@
 </head>
 <body>
    Hello how are you???? 
-	<h1>Thanks a lot for being so patient through the session!</h1>
+	<h1>Thanks a lot for being so patient through the Docker & Kubernetes session!</h1>
+	<h1>Hello World</h1>
     	<form action="helloServlet" method="post">
     	Enter your name: <input type="text" name="username" size="20">
     	<input type="submit" value="Call Servlet" />
